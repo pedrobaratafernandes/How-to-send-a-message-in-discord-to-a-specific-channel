@@ -19,3 +19,4 @@ header = {
 r = requests.post(
     'https://discord.com/api/v8/channels/816350000862461982/messages', data=payload, headers=header)
 ```
+![how-retrieve-token.png](how-retrieve-token.png)
